@@ -1,0 +1,8 @@
+.env
+supabase/.temp
+node_modules/
+dist/
+.DS_Store
+functions/**/node_modules/
+functions/**/.output/
+
